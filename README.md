@@ -2,19 +2,13 @@
 
 I'm currently studying Software Engineering at Ton Duc Thang University. I love bringing my ideas from my head to reality.
 
-### ~~Fun~~ Facts:
-
-- I love Pokemon (especially Furret & Snorlax)
-- I don't like chocolate
-- Hobbies: reading, drawing, programming
-
 ### Languages
 
 - Languages: Golang, Python, HTML5, CSS3, JavaScript
 - Frameworks/Libraries: Gin, FastAPI, ExpressJS, Bootstrap
-- Database: PostgreSQL, mySQL, MongoDB, Redis
+- Database: PostgreSQL, MySQL, MongoDB, Redis
 - Hosting: AWS, CloudFare
-- Tools: Git, Github, Postman
+- Tools: Git, GitHub, Postman
 - Others: Docker, NodeJS
 
 ### Contact
