@@ -5,14 +5,14 @@ I'm currently studying Software Engineering at Ton Duc Thang University. I love 
 ### Languages
 
 - Languages: Golang, Python, HTML5, CSS3, JavaScript
-- Frameworks/Libraries: Gin, FastAPI, ExpressJS, Bootstrap
+- Frameworks/Libraries: Echo, FastAPI
 - Database: PostgreSQL, MySQL, MongoDB, Redis
-- Hosting: AWS, CloudFare
+- Hosting: AWS, Cloudflare
 - Tools: Git, GitHub, Postman
-- Others: Docker, NodeJS
+- Others: Docker
 
 ### Contact
 
 Email: <a href="mailto:ngochithuan.dev@gmail.com">ngochithuan.dev@gmail.com</a>
 <br>
-Facebook: <a href="https://www.facebook.com/chithuan.ngo.47/">ngochithuan47</a>
+Facebook: <a href="https://www.facebook.com/ngochithuan47/">Ngô Chí Thuận</a>
